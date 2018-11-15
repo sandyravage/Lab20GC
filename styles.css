@@ -1,0 +1,18 @@
+﻿#NavbarFlag
+{
+
+}
+.kindofpadded{
+    margin:20px;
+}
+
+.jumbotron {
+    padding: 20px;
+ min-height:500px;
+}
+
+@font-face {
+    font-family: "Walk";
+    src: url(/Fonts/Walk-Around-the-Block.ttf);
+}
+
